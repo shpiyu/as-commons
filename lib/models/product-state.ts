@@ -1,5 +1,7 @@
 export enum ProductState {
-    NEW = 'new',
+    READY = 'ready',
     PUBLISHED = 'published',
-    HIDDEN = 'hidden'
+    HIDDEN = 'hidden',
+    OUTOFSTOCK = 'out of stock',
+    DELETED = 'deleted'
 }
