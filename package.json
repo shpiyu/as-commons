@@ -1,5 +1,5 @@
 {
-  "name": "@shpiyu/as-commons",
+  "name": "@upay/as-commons",
   "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",

@@ -3,7 +3,7 @@ Common models and utilities used in apnasaamaan project
 
 ## Usage
 ```
-npm install @shpiyu/as-commons
+npm install @upay/as-commons
 ```
 
 ## Build
