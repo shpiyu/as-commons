@@ -1,5 +1,6 @@
 import { Center } from './upay-centers';
 import { ProductState } from './product-state';
+import { ProductCategory } from './product-category';
 
 export class Product {
     name!: string;
@@ -9,4 +10,5 @@ export class Product {
     upayCenter!: Center;
     imageUrls!: Array<string>;
     state!: ProductState;
+    category!: ProductCategory;
 }
